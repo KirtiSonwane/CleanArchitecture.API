@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "crudCleanA.Controllers.BlogController",
+    "Method": "GetAll",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "crudCleanA.Controllers.BlogController",
+    "Method": "Create",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blog",
+        "Type": "CleanArchitecture.Domain.Entities.Blog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "crudCleanA.Controllers.BlogController",
+    "Method": "GetById",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "crudCleanA.Controllers.BlogController",
+    "Method": "Update",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedBlog",
+        "Type": "CleanArchitecture.Domain.Entities.Blog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "crudCleanA.Controllers.BlogController",
+    "Method": "Delete",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

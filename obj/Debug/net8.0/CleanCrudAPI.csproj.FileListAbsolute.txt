@@ -1,0 +1,7 @@
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\CleanCrudAPI.csproj.AssemblyReference.cache
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\CleanCrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\CleanCrudAPI.AssemblyInfoInputs.cache
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\CleanCrudAPI.AssemblyInfo.cs
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\CleanCrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\ksonw\source\repos\CleanCrudAPI\obj\Debug\net8.0\CleanCrudAPI.MvcApplicationPartsAssemblyInfo.cache
